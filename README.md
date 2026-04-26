@@ -50,6 +50,14 @@ Supply chain and finance data is often spread across multiple tables and busines
 ## Outcome
 This project demonstrates SQL proficiency in schema design, advanced querying, business analytics, and operational insight generation.
 
+## Assets
+![Cover](assets/cover.png)
+![Entity Relationship Diagram](assets/erd.png)
+![Quary Output-1](assets/query-output1.png)
+![Quary Output-2](assets/query-output2.png)
+![Insights Summary](assets/insights-summary.png)
+![Conslusions](assets/conclusions.png)
+
 ## Author
 Rampravesh Vishwakarma  
 Business Analyst
